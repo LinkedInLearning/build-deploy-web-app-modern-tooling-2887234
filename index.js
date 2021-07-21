@@ -37,6 +37,22 @@ const createNoteView = (note) => {
 	return noteDiv;
 }
 
+const saveNote = () => {
+	const titleInput = document.querySelector('input#title');
+	const bodyInput = document.querySelector('input#body');
+	const bgColorInput = document.querySelector('select');
+	const id = new Date().getTime();
+	const note = {
+		id, title: titleInput.value, body: bodyInput.value, bgColor: bgColorInput.value
+	}
+	const noteDiv = createNoteView(note);
+	notesDiv.prepend(noteDiv);
+	titleInput.value = '';
+	bodyInput.value = '';
+	bgColorInput.value = '';
+}
+
+document.querySelector('button.add').onclick = () => saveNote();
 const notesDiv = document.querySelector('.notesDiv');
 notes.forEach(note => {
 	const noteDiv = createNoteView(note);
