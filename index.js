@@ -39,6 +39,22 @@ const createNoteView = (note) => {
 	return noteDiv;
 }
 
+const cancelEdit = (noteDiv) => {
+	const titleP = noteDiv.querySelector('b.title');
+	titleP.contentEditable = false;
+	const bodyP = noteDiv.querySelector('p.body');
+	bodyP.contentEditable = false;
+	const editButton = noteDiv.querySelector('button.edit');
+	editButton.innerHTML = 'Edit Note';
+	const deleteButton = noteDiv.querySelector('button.delete');
+	deleteButton.innerHTML = 'Delete Note';
+	const note = notes.find(note => note.id == noteDiv.id);
+	titleP.innerHTML = note.title;
+	bodyP.innerHTML = note.body;
+	editButton.onclick = () => editNote(noteDiv);
+	deleteButton.onclick = () => deleteNote(noteDiv);
+}
+
 const editNote = (noteDiv, editSave = false) => {
 	const titleP = noteDiv.querySelector('b.title');
 	titleP.contentEditable = true;
