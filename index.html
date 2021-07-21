@@ -1,11 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notes App</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Notes App</title>
 </head>
 <body>
-    
+	<div id="notes">
+		<h2>Notes App</h2>
+		<div class="inputs">
+			<input type="text" id="title" placeholder="Enter Note Title">
+			<input type="text" id="body" placeholder="Enter Note Body">
+			<select id="colors">
+				<option>Select Color</option>
+				<option value="#C46210">Alloy Orange</option>
+				<option value="#F19CBB">Amaranth Pink</option>
+				<option value="#FBCEB1">Apricot</option>
+				<option value="#B2BEB5">Ash Gray</option>
+			</select>
+			<button type="button" class="add">Add Note</button>
+		</div>
+		<div class="notesDiv">
+            <div class="note">
+                <div class="text">
+                    <b>Learn react</b>
+                    <p>Take a react course on linkedIn learning</p>
+                </div>
+                <button class="add">Edit Note</button>
+                <button class="delete">Delete Note</button>
+            </div>
+		</div>
+	</div>
 </body>
 </html>
