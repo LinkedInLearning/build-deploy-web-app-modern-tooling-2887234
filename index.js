@@ -33,9 +33,9 @@ const createNoteView = (note) => {
 	textDiv.append(bodyP)
 	noteDiv.append(textDiv)
 	noteDiv.append(editButton)
-    noteDiv.append(deleteButton)
-    editButton.onclick = () => editNote(noteDiv);
-    deleteButton.onclick = () => deleteNote(noteDiv);
+	noteDiv.append(deleteButton)
+	editButton.onclick = () => editNote(noteDiv);
+	deleteButton.onclick = () => deleteNote(noteDiv);
 	return noteDiv;
 }
 
@@ -103,6 +103,7 @@ const deleteNote = (noteDiv) => {
 }
 
 document.querySelector('button.add').onclick = () => saveNote();
+
 const notesDiv = document.querySelector('.notesDiv');
 notes.forEach(note => {
 	const noteDiv = createNoteView(note);
