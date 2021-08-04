@@ -12,7 +12,7 @@ Since it’s already installed on every web browser today, you can just jump in 
 
 Given the increasing number of businesses and companies being birthed every day, there is a corresponding increase in demand for developers who are familiar with Javascript programming especially on the frontend. According to a report released by Devskiller.com, 70 percent of companies surveyed want to hire a JavaScript developer.
 
-This linkedIn learning course will help you to get started with your journey of becoming a world class software engineer. You will be able to learn HTML, CSS and build a strong vanilla Javacript foundation before advancing to use frame works and libraries provided by this language. In addition to that, you will also learn how to build a note app from start to finish, use version control(git and github) for your work flow and finally launch your app go public.
+This linkedIn learning course will help you to get started with your journey of becoming a world class software engineer. You will be able to learn HTML, CSS and build a strong vanilla Javacript foundation before advancing to use frame works and libraries provided by this language. In addition to that, you will also learn how to build a note app from start to finish, use version control(git and github) for your work flow and finally launch your app to go public.
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch dropdown menu in github to switch to a specific branch and take a look at the course at each stage of the video, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
