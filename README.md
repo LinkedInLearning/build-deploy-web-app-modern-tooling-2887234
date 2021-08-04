@@ -28,8 +28,9 @@ The branches are structured to correspond to the videos in the course. The namin
 	- [Live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 	- [Auto close tag extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. Open the repository on your code editor.
-4. Use the live server extansion to start your app.
+3. Run the following command on you terminal to download the remote repository [git clone https://github.com/LinkedInLearning/build-deploy-web-app-modern-tooling-2887234.git]
+4. Open the repository on your code editor.
+5. Use the live server extansion to start your app.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
