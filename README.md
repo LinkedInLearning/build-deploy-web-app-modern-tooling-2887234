@@ -4,18 +4,18 @@ This is the repository for the LinkedIn Learning course `course-name`. The full 
 ![course-name-alt-text][lil-thumbnail-url]  
 
 
-JavaScript is the most popular programming language used by professional developers today according to Stackoverflow.com; It's experiencing unprecedented growth in demand to the point that even back-end developers choose JavaScript more often than not.
+JavaScript is the most popular programming language used by professional developers today according to Stackoverflow.com. It's experiencing unprecedented growth in demand to the point that even back-end developers choose JavaScript more often than not.
 
-It is without question, the default language of the internet. Since browsers are a necessary part of any user’s online experience, it’s easy to see why JavaScript is so significant because in order to build a web app, you must use javascript.
+It is, without question, the default language of the internet. Since browsers are a necessary part of any user’s online experience, it’s easy to see why JavaScript is so significant--because in order to build a web app, you must use JavaScript.
 
-Since it’s already installed on every web browser today, you can just jump in and start coding right there on the browser. It's also very easy to search for Javascript related stuffs because there is a large online community that offers support and advice and an excellent tool for beginning programmers who want to expand their skill set into other languages as well.
+Since it’s already installed on every web browser today, you can just jump in and start coding right there on the browser. It's also very easy to search for JavaScript related items because there is a large online community that offers support and advice. It is an excellent tool for beginning programmers who want to expand their skill set into other languages as well.
 
-Given the increasing number of businesses and companies being birthed every day, there is a corresponding increase in demand for developers who are familiar with Javascript programming especially on the frontend. According to a report released by Devskiller.com, 70 percent of companies surveyed want to hire a JavaScript developer.
+Given the increasing number of businesses and companies being birthed every day, there is a corresponding increase in demand for developers who are familiar with JavaScript programming especially on the frontend. According to a report released by Devskiller.com, 70 percent of companies surveyed want to hire a JavaScript developer.
 
-This linkedIn learning course will help you to get started with your journey of becoming a world class software engineer. You will be able to learn HTML, CSS and build a strong vanilla Javacript foundation before advancing to use frame works and libraries provided by this language. In addition to that, you will also learn how to build a note app from start to finish, use version control(git and github) for your work flow and finally launch your app to go public.
+This LinkedIn Learning course will help you to get started with your journey of becoming a world-class software engineer. You will be able to learn HTML, CSS and build a strong vanilla JavaScript foundation before advancing to use frame works and libraries provided by this language. In addition to that, you will also learn how to build a note app from start to finish, use version control(Git and GitHub) for your workflow and finally launch your app to go public.
 
 ## Instructions
-This repository has branches for each of the videos in the course. You can use the branch dropdown menu in github to switch to a specific branch and take a look at the course at each stage of the video, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+This repository has branches for each of the videos in the course. You can use the branch dropdown menu in GitHub to switch to a specific branch and take a look at the course at each stage of the video, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
   
 
 ## Branches
