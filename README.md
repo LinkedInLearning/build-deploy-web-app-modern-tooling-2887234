@@ -1,18 +1,10 @@
-# Build And Deploy Your First Web App With Modern Tooling
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Build and Deploy Your First Web App with Modern Tooling
+This is the repository for the LinkedIn Learning course Build and Deploy Your First Web App with Modern Tooling. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url]  
+![Build and Deploy Your First Web App with Modern Tooling][lil-thumbnail-url] 
 
+Most web developers today do their work supported by a variety of tools: IDEs, code repositories, test systems, and more. However, most people don't get to use those tools when they’re just starting out on their web developer training, and generally get introduced to them as parts, without seeing how they fit together. In this project-based course, Oluchi Okpala presents a simple example developers can easily follow while seeing how the tools fit together around it. If you have a basic understanding of HTML, CSS, and JavaScript, but want to learn more about how they all work together to create today’s dynamic and interactive content, this course is for you.
 
-JavaScript is the most popular programming language used by professional developers today according to Stackoverflow.com. It's experiencing unprecedented growth in demand to the point that even back-end developers choose JavaScript more often than not.
-
-It is, without question, the default language of the internet. Since browsers are a necessary part of any user’s online experience, it’s easy to see why JavaScript is so significant--because in order to build a web app, you must use JavaScript.
-
-Since it’s already installed on every web browser today, you can just jump in and start coding right there on the browser. It's also very easy to search for JavaScript related items because there is a large online community that offers support and advice. It is an excellent tool for beginning programmers who want to expand their skill set into other languages as well.
-
-Given the increasing number of businesses and companies being birthed every day, there is a corresponding increase in demand for developers who are familiar with JavaScript programming especially on the frontend. According to a report released by Devskiller.com, 70 percent of companies surveyed want to hire a JavaScript developer.
-
-This LinkedIn Learning course will help you to get started with your journey of becoming a world-class software engineer. You will be able to learn HTML, CSS and build a strong vanilla JavaScript foundation before advancing to use frame works and libraries provided by this language. In addition to that, you will also learn how to build a note app from start to finish, use version control(Git and GitHub) for your workflow and finally launch your app to go public.
 
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch dropdown menu in GitHub to switch to a specific branch and take a look at the course at each stage of the video, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -32,9 +24,16 @@ The branches are structured to correspond to the videos in the course. The namin
 4. Open the repository on your code editor.
 5. Use the live server extension to start your app.
 
+### Instructor
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Oluchukwu Okpala 
+                            
+Software Engineer
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/oluchukwu-okpala).
+
+[lil-course-url]: https://www.linkedin.com/learning/build-and-deploy-your-first-web-app-with-modern-tooling
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2887234/2887234-1631725320595-16x9.jpg
 
